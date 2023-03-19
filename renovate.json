@@ -1,29 +1,9 @@
 {
 
-    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
 
-    "extends": ["config:base"],
+  "extends": [
 
-    // Package rules are matched such that later rules override earlier ones.
+    "config:base"
 
-    "packageRules": [
-
-        {
-
-            "matchManagers": ["github-actions"],
-
-            "groupName": "Github Actions dependencies",
-
-            "extends": ["schedule:monthly"],
-
-        },
-
-    ],
-
-    "lockFileMaintenance": {
-
-        "enabled": true
-
-    }
-
-}
+  ]

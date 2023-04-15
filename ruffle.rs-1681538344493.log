@@ -1,0 +1,407 @@
+ruffle.rs/:93 [Intervention]Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wXg.woff2
+ruffle_web-wasm_extensions.js:1635  The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page.
+(匿名) @ ruffle_web-wasm_extensions.js:1635
+ruffle_web-wasm_extensions.js:1229  The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page.
+(匿名) @ ruffle_web-wasm_extensions.js:1229
+ruffle_web-wasm_extensions.js:1229  The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page.
+(匿名) @ ruffle_web-wasm_extensions.js:1229
+ruffle-player.js:298 New Ruffle instance created (WebAssembly extensions: ON)
+ruffle-player.js:447 Loading SWF file logo-anim.swf
+ruffle-player.js:375 Ruffle instance destroyed.
+ruffle-player.js:298 New Ruffle instance created (WebAssembly extensions: ON)
+ruffle-player.js:453 Loading SWF data
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/globals/sound.rs:420 Sound.start: No sound is attached
+ruffle_web-wasm_extensions.js:681 WARN core/src/display_object/movie_clip.rs:3836 Movie clip 1400: Duplicated frame label
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRelease from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOver from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOut from Undefined
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRelease from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOver from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOut from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRelease from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOver from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOut from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRelease from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOver from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOut from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRelease from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOver from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOut from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRelease from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOver from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOut from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRelease from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOver from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOut from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRelease from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOver from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOut from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRelease from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOver from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOut from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRelease from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOver from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOut from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRelease from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOver from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOut from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRelease from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOver from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOut from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRelease from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOver from Undefined
+ruffle_web-wasm_extensions.js:681 WARN core/src/avm1/activation.rs:968 Cannot delete property onRollOut from Undefined
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was read back without waiting on a fence. This caused a graphics pipeline stall.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 143 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 91 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 143 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 143 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:832  WebGL: too many errors, no more errors will be reported to the console for this context.
+O.n.wbg.__wbg_fenceSync_fb3e1185847ee462 @ ruffle_web-wasm_extensions.js:832
+$<T as wgpu::context::DynContext>::queue_submit::h9802bc99f6e83b97 @ 02a7ac72:0x56c929
+$<ruffle_render_wgpu::QueueSyncHandle as ruffle_render::bitmap::SyncHandle>::retrieve_offscreen_texture::hc4eb6e40f88a771b @ 02a7ac72:0x4158e6
+$ruffle_core::bitmap::bitmap_data::wrapper::BitmapDataWrapper::sync::h4d65ac0652a1e4c0 @ 02a7ac72:0x677be6
+$ruffle_core::bitmap::operations::color_bounds_rect::h1632a010d71b8a20 @ 02a7ac72:0x5edfa6
+$ruffle_core::avm1::globals::bitmap_data::get_color_bounds_rect::ha7265b1511ffb1e2 @ 02a7ac72:0x419e6c
+$ruffle_core::avm1::function::Executable::exec::h6723b05a54320589 @ 02a7ac72:0x1a3d82
+$<ruffle_core::avm1::object::Object as ruffle_core::avm1::object::TObject>::call_method::hcf2b74a46027ee0a @ 02a7ac72:0x58ccfd
+$ruffle_core::avm1::activation::Activation::run_actions::h1acc5742ff5dfcee @ 02a7ac72:0x1230d
+$ruffle_core::avm1::function::Executable::exec::h6723b05a54320589 @ 02a7ac72:0x1a3b61
+$<ruffle_core::avm1::object::Object as ruffle_core::avm1::object::TObject>::call::h42dfc815bb6c077f @ 02a7ac72:0x4a758a
+$ruffle_core::avm1::activation::Activation::run_actions::h1acc5742ff5dfcee @ 02a7ac72:0x24b9a
+$ruffle_core::avm1::function::Executable::exec::h6723b05a54320589 @ 02a7ac72:0x1a3b61
+$<ruffle_core::avm1::object::Object as ruffle_core::avm1::object::TObject>::call_method::hcf2b74a46027ee0a @ 02a7ac72:0x58aead
+$ruffle_core::avm1::activation::Activation::run_actions::h1acc5742ff5dfcee @ 02a7ac72:0x1230d
+$ruffle_core::avm1::function::Executable::exec::h6723b05a54320589 @ 02a7ac72:0x1a3b61
+$<ruffle_core::avm1::object::Object as ruffle_core::avm1::object::TObject>::call_method::hcf2b74a46027ee0a @ 02a7ac72:0x58aead
+$ruffle_core::avm1::runtime::Avm1::run_stack_frame_for_method::h87abc65a7815fca0 @ 02a7ac72:0x670c37
+$ruffle_core::player::Player::run_actions::h49acfed8ffe20ccd @ 02a7ac72:0x29d236
+$ruffle_core::player::Player::update_mouse_state::h61394705ba43c20a @ 02a7ac72:0x17e455
+$ruffle_core::player::Player::handle_event::h50f8527479b7acbe @ 02a7ac72:0x1294cc
+$ruffle_web::Ruffle::new_internal::{{closure}}::{{closure}}::{{closure}}::hf54e947cae570c98 @ 02a7ac72:0x2c59f1
+$<dyn core::ops::function::FnMut<(A,)>+Output = R as wasm_bindgen::closure::WasmClosure>::describe::invoke::h077c68a6250cd64a @ 02a7ac72:0x7fac15
+$closure279 externref shim @ 02a7ac72:0x7ff778
+v @ ruffle_web-wasm_extensions.js:203
+f @ ruffle_web-wasm_extensions.js:184
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
+ruffle_web-wasm_extensions.js:681 WARN  mpa: invalid main_data_begin, underflow by 117 bytes log.target = "symphonia_bundle_mp3::layer3";log.module_path = "symphonia_bundle_mp3::layer3";log.file = "/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-bundle-mp3-0.5.2/src/layer3/mod.rs";log.line = 86;
